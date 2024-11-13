@@ -1,1 +1,1 @@
-# Preconditioning-SGD-
+# Preconditioning-SGD-DNN
